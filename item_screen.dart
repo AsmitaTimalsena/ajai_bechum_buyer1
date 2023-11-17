@@ -1,3 +1,7 @@
+
+//this file under screens folder
+
+
 import 'dart:ffi';
 
 import 'package:ajai_bechum_seller/widgets/product_images_slider.dart';
