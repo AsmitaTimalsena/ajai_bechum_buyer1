@@ -1,3 +1,6 @@
+
+// this file under widgets folder
+
 import 'package:ajai_bechum_seller/screens/item_screen.dart';
 import 'package:flutter/material.dart';
 class GridItems extends StatelessWidget{
